@@ -1,0 +1,11 @@
+{
+  "name": "ESP-Matter Build Environment",
+  "image": "espressif/esp-matter:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools"
+      ]
+    }
+  }
+}
