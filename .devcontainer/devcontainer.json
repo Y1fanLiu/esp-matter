@@ -1,6 +1,7 @@
 {
   "name": "ESP-Matter Build Environment",
-  "image": "espressif/esp-matter:latest",
+  "image": "espressif/esp-matter:release-v1.6.1",
+  "overrideCommand": false,
   "customizations": {
     "vscode": {
       "extensions": [
